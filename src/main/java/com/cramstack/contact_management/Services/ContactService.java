@@ -2,7 +2,7 @@ package com.cramstack.contact_management.Services;
 
 import com.cramstack.contact_management.Models.Contact;
 import com.cramstack.contact_management.Payloads.ContactPayload;
-import com.cramstack.contact_management.Repositorys.ContactRepository;
+import com.cramstack.contact_management.Repositories.ContactRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

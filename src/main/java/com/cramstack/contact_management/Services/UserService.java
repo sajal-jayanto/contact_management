@@ -2,7 +2,7 @@ package com.cramstack.contact_management.Services;
 
 import com.cramstack.contact_management.Payloads.UserPayload;
 import com.cramstack.contact_management.Models.User;
-import com.cramstack.contact_management.Repositorys.UserRepository;
+import com.cramstack.contact_management.Repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

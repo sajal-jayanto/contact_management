@@ -1,4 +1,4 @@
-package com.cramstack.contact_management.Repositorys;
+package com.cramstack.contact_management.Repositories;
 
 import com.cramstack.contact_management.Models.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
